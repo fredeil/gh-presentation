@@ -50,7 +50,7 @@ Clone the forked repository to your computer
 
 ```bash
 $ git clone https://github.com/username/gh-presentation.git
-$ cd landingpage-apps
+$ cd gh-presentation
 $ jekyll serve
 ...
 ```
