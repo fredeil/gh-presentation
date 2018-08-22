@@ -66,4 +66,5 @@ All the slides are located under the `_posts` folder. To see an overview of all 
 ## **Upcoming features:**
 
 * Exporting to PDF
+* Notes for the presenter
 * WebSockets for broadcasting the presentation to multiple users
