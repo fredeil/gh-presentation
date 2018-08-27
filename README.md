@@ -1,6 +1,6 @@
-# GitHub Web Presentation
+# GitHub Markdown Presentation
 
-A simple template for creating presentations on the web hosted by GitHub. You can also serve it locally if you don't want to upload your presentation online.
+A simple template for creating presentations on the web hosted using GitHub Markdown You can also serve it locally if you don't want to upload your presentation online.
 
 ## Getting started
 
