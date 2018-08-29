@@ -1,4 +1,4 @@
-# GitHub Markdown Presentation
+# **GitHub Markdown Presentation** :balloon:
 
 A simple template for creating presentations on the web hosted using GitHub Markdown You can also serve it locally if you don't want to upload your presentation online.
 
